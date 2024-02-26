@@ -1,0 +1,20 @@
+{
+  "name": "Password Generator",
+  "description": "Generate passwords fast, Decide length and it uses these characters: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@!/%&()=-_+#",
+  "manifest_version": 3,
+  "version": "1.0",
+  "permissions": [
+    "storage"
+  ],
+  "action": {
+    "default_title": "Kode generator",
+    "default_popup": "/popup/popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+  
+}
